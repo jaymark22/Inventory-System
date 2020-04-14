@@ -8,18 +8,13 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Final_Project
+namespace BossSilog
 {
-    public partial class DrinkPage : UserControl
+    public partial class UserControl2 : UserControl
     {
-        public DrinkPage()
+        public UserControl2()
         {
             InitializeComponent();
-        }
-
-        private void numericUpDown1_ValueChanged(object sender, EventArgs e)
-        {
-
         }
     }
 }
